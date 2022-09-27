@@ -1,5 +1,10 @@
 # 📜 SearchLight Changelog (Release)
 
+## 🚀 2.0.1-release
+#### 🔧 修正
+- 引数 `/DontShowSettingsWindow` と `/Startup` が機能していない
+- [設定] アップデートブランチの「テストビルド」と「テストビルド (リリースビルド含む)」が逆になっている
+
 ## 🚀 2.0.0-release
 #### 🟢 追加 (Testでの変更含む)
 - 起動引数「/Startup」を追加
