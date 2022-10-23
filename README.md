@@ -3,12 +3,20 @@
 </div>
 <h2 align="center">SearchLight</h2>
 
-#### 最新バージョン
-![](https://img.shields.io/github/v/release/Milkeyyy/SearchLight-Releases?display_name=release&include_prereleases&style=flat-square) ![](https://img.shields.io/github/v/tag/Milkeyyy/SearchLight-Releases?include_prereleases&style=flat-square) ![](https://img.shields.io/github/release-date-pre/Milkeyyy/SearchLight-Releases?style=flat-square)
-
 ### 対応環境
 - Windows 11
 - Windows 10
+
+### ダウンロード
+- [バージョン一覧](https://github.com/Milkeyyy/SearchLight-Releases/releases)
+
+#### [最新バージョン](https://github.com/Milkeyyy/SearchLight-Releases/releases/latest)
+
+![](https://img.shields.io/github/v/release/Milkeyyy/SearchLight-Releases?display_name=release&style=flat-square) ![](https://img.shields.io/github/v/tag/Milkeyyy/SearchLight-Releases?include_prereleases&style=flat-square) ![](https://img.shields.io/github/release-date/Milkeyyy/SearchLight-Releases?style=flat-square)
+
+#### 最新バージョン (テストビルド含む)
+
+![](https://img.shields.io/github/v/release/Milkeyyy/SearchLight-Releases?display_name=release&include_prereleases&style=flat-square) ![](https://img.shields.io/github/v/tag/Milkeyyy/SearchLight-Releases?include_prereleases&style=flat-square) ![](https://img.shields.io/github/release-date-pre/Milkeyyy/SearchLight-Releases?style=flat-square)
 
 ### 言語
 - [日本語プログラミング言語「プロデル」](https://rdr.utopiat.net/)
