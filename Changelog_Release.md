@@ -1,5 +1,9 @@
 # 📜 SearchLight Changelog (Release)
 
+## 🚀 2.0.2-release
+#### 🟢 追加
+- テーマ「Trick or Treat」を追加
+
 ## 🚀 2.0.1-release
 #### 🔧 修正
 - 引数 `/DontShowSettingsWindow` と `/Startup` が機能していない
