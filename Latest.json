@@ -1,6 +1,7 @@
 {
 	"InternalVersion": "20100.22313",
-	"Version": "2.1.0-dev.20221204.191615",
-	"BuildVersion": "20221204.191615",
-	"BuildDate": "2022/12/04 19:16:15"
+	"SetupUrl": "https://raw.githubusercontent.com/Milkeyyy/SearchLight-Releases/build/dev/Setup/SearchLight_Dev_Setup.exe",
+	"Version": "2.1.0-dev.20221204.192434",
+	"BuildVersion": "20221204.192434",
+	"BuildDate": "2022/12/04 19:24:34"
 }
